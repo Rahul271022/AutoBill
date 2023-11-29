@@ -1,5 +1,5 @@
 {
-    "name": "automatic-billing",
+    "name": "automatic-cart",
     "version": "1.0.0",
     "description": "Automated Billing",
     "main": "server.js",
